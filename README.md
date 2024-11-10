@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+`` 🔭 Looking to collaborate on ML/DL research or projects``
 
+`` I’m currently up-skilling in Deep Learning/ NLP/ Computer Vision/ GenAI``
+
+   
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gitgoap&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
