@@ -2,7 +2,7 @@
 
 `` 🔭 Looking to collaborate on ML/DL research or projects``
 
-`` 🧰 I’m currently up-skilling in Deep Learning/ NLP/ Computer Vision/ GenAI``
+`` 🧰 I’m currently up-skilling in Deep Learning/ NLP/ VLM/ GenAI``
 
    
 
