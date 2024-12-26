@@ -1,8 +1,10 @@
-### Hi there 👋
+##### Hi there 👋
 
-`` 🔭 Looking to collaborate on ML/DL research or projects``
+🔭 Looking to collaborate on ``ML/DL research or projects``
 
-`` 🧰 I’m currently up-skilling in Deep Learning/ NLP/ VLM/ GenAI``
+🧰  I’m currently up-skilling in ``Deep Learning/ NLP/ VLM/ GenAI``
+
+For Details: [amanprakash.dev](amanprakash.dev)
 
    
 
