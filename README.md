@@ -4,7 +4,7 @@
 
 🧰  I’m currently up-skilling in ``Deep Learning/ NLP/ VLM/ GenAI``
 
-For Details: [amanprakash.dev](amanprakash.dev)
+For Details: [amanprakash.dev](https://amanprakash.dev/)
 
    
 
