@@ -1,6 +1,6 @@
 ##### Hi there 👋
 
-🔭 Looking to collaborate on ``ML/DL research or projects``
+🔭 Looking to collaborate on ``Deep Learning research or projects``
 
 🧰  I’m currently up-skilling in ``Deep Learning/ NLP/ VLM/ GenAI``
 
