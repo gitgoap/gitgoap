@@ -1,8 +1,8 @@
 ##### Hi there 👋
 
-🔭 Looking to collaborate on ``Deep Learning research or projects``
+🔭 Looking to collaborate on ``Deep Learning research projects``
 
-🧰  I’m currently up-skilling in ``Deep Learning/ NLP/ VLM/ GenAI``
+🧰  I’m currently up-skilling in ``Deep Learning/ CUDA/ Multilingual LLM/ VLM/ GenAI``
 
 For Details: [amanprakash.dev](https://amanprakash.dev/)
 
