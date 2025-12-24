@@ -1,8 +1,8 @@
 ##### Hi there 👋
 
-🔭 Looking to collaborate on ``Deep Learning research projects``
+🔭 Looking to collaborate on ``Deep Learning projects``
 
-🧰  I’m currently up-skilling in ``Deep Learning/ Pretraining of Foundational Model (LLM, VLM)``
+🧰  I’m currently up-skilling in ``Pretraining of Foundational Model (LLM, VLM)``
 
 For Details: [amanprakash.dev](https://amanprakash.dev/)
 
