@@ -2,7 +2,7 @@
 
 🔭 Looking to collaborate on ``Deep Learning projects``
 
-🧰  I’m currently up-skilling in ``Pretraining of Foundational Model (LLM, VLM)``
+🧰  I’m currently up-skilling in ``Pretraining of Foundational Models (Diffusion LLM, VLM)``
 
 For Details: [amanprakash.dev](https://amanprakash.dev/)
 
