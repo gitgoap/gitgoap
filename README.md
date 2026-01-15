@@ -4,7 +4,7 @@
 
 🧰  I’m currently up-skilling in ``Pretraining of Foundational Models (Diffusion LLM, VLM)``
 
-For Details: [amanprakash.dev](https://amanprakash.dev/)
+For Details: [amanprakash.dev](https://www.amanprakash.dev/)
 
    
 
